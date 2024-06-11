@@ -1,0 +1,14 @@
+The sum is 23.60
+The average is:2.50
+Enter Vector1[1]: 1
+Enter Vector1[2]: 2
+Enter Vector1[3]: 3
+Enter Vector2[1]: 4
+Enter Vector2[2]: 5
+Enter Vector2[3]: 3
+
+The scalar product of the two vectors is : 23.000000
+The Euclidean Distance is : 4.242641
+C:\Users\add688\source\repos\arrayfunctions\Debug\arrayfunctions.exe (process 12204) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

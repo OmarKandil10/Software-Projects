@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RealNumber
+comment0.text=\r\n\ class\ RealNumber\ is\ a\ sketch\ of\ a\ wrapper\ class\ \r\n\ that\ allows\ elementary\ calculation\r\n\ on\ real\ numbers\ via\ method\ calls.\ <br>\r\n\ RealNumber\ objects\ are\ final\ constant\ and\ cannot\ be\ changed\ by\ any\ method,\r\n\ i.e.\ a\ new\ instance\ is\ generated\ when\ processing\ each\ operation,\r\n\ see\ e.g.\ the\ testMultipleOps\ method\ in\ RealNumberTest\ class.\ \r\n\ \r\n\ @author\ \ Wolfgang\ Renz\r\n\ @version\ 2022-11-22\r\n
+comment1.params=r
+comment1.target=RealNumber(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RealNumber\r\n
+comment2.params=z
+comment2.target=RealNumber\ add(ComplexNumber)
+comment3.params=obj
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\r\n\ Method\ equals\ is\ required\ for\ testing\ because\r\n\ assertEquals\ will\ use\ it,\ check\ RealNumberTest\ test\ methods\!\r\n\r\n\ @param\ obj\ any\ object\r\n\ @return\ true\ if\ object\ is\ RealNumber\ with\ same\ value,\ false\ otherwise\r\n
+numComments=4

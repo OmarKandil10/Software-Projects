@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=UI
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ UI\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=game
+comment1.target=UI\ StartUI(Playable)
+comment2.params=
+comment2.target=void\ play()
+comment3.params=s
+comment3.target=void\ print(java.lang.String)
+numComments=4

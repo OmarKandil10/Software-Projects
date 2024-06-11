@@ -1,0 +1,18 @@
+Insert numbers [1]:1
+Insert numbers [2]:2
+Insert numbers [3]:3
+Insert numbers [4]:4
+Insert numbers [5]:5
+Insert numbers [6]:6
+Insert numbers [7]:7
+Insert numbers [8]:8
+Insert numbers [9]:9
+Insert numbers [10]:0
+1  2  3  4  5  6  7  8  9  0  Size:40
+Shift towards the front:
+2  3  4  5  6  7  8  9  0  1
+Shift towards the back:
+1  2  3  4  5  6  7  8  9  0
+C:\Users\add688\source\repos\Numbers.c\Debug\Numbers.c.exe (process 12080) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

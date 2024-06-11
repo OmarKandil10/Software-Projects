@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CleaningRobotData
+comment0.text=\r\n\ Concrete\ Observable\ Subject\ (Cleaning\ Robot\ Schedule\ Data)\r\n
+comment1.params=
+comment1.target=CleaningRobotData()
+comment2.params=observer
+comment2.target=void\ addObserver(Observer)
+comment3.params=observer
+comment3.target=void\ removeObserver(Observer)
+comment4.params=
+comment4.target=int\ getRobotBatteryPercent()
+comment5.params=
+comment5.target=java.util.List\ getCleaningAreas()
+comment6.params=cleaningArea
+comment6.target=void\ addCleaningArea(java.lang.String)
+comment7.params=floorStatus
+comment7.target=void\ simulateCleaning(java.lang.String)
+numComments=8

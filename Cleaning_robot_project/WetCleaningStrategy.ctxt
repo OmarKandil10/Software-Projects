@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WetCleaningStrategy
+comment0.text=\r\n\ Concrete\ Strategy\ Class\ for\ Wet\ Cleaning\r\n
+comment1.params=floorStatus
+comment1.target=WetCleaningStrategy(java.lang.String)
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=status
+comment3.target=void\ floorStatus(java.lang.String)
+numComments=4

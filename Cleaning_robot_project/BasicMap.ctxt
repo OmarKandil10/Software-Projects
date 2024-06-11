@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BasicMap
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CleaningSurfaceModeDecorator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cleaningStrategy
+comment1.target=BasicMap(CleaningSurfaceMode)
+comment2.params=
+comment2.target=void\ execute()
+numComments=3

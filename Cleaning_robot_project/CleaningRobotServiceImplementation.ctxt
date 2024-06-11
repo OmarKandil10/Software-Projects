@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CleaningRobotServiceImplementation
+comment1.params=
+comment1.target=CleaningRobotServiceImplementation()
+comment2.params=cleaningStrategy
+comment2.target=void\ scheduleCleaning(CleaningSurfaceMode)
+numComments=3

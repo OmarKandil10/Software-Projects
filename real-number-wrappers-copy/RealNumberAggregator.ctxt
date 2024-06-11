@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RealNumberAggregator
+comment0.text=\r\n\ RealNumberAggregator\ provides\ instances\ that\ keeps\ a\ double\ precision\ real\r\n\ for\ aggregate\ processing\ of\ multiple\ numerical\ operations\ without\ the\ overhead\r\n\ produced\ by\ generating\ new\ instances\ like\ the\ RealNumber\ class\ would\ do,\r\n\ Usage\ see\ e.g.\ RealNumberAggregatorTest\ methods\ with\ loops.\ <br><br>\r\n\ It\ acts\ similar\ as\ StringBuffer\ with\ respect\ to\ the\ String\ class.\r\n\r\n\ @author\ \ Wolfgang\ Renz\r\n\ @version\ 2022-11-22\r\n
+comment1.params=
+comment1.target=double\ getReal()
+comment1.text=\ Default\ constructor\ requires\ no\ action.\r\n\ Without\ an\ implementation\ it\ uses\ the\ Object\ classes\ default\ constructor\r\n\ since\ that\ is\ it's\ super\ class.\r\n
+comment2.params=z
+comment2.target=RealNumberAggregator\ add(double)
+comment2.text=\r\n\ Method\ add\ acts\ like\ addToThis\:\ \r\n\ this\ +\=\ z\ \r\n\r\n\ @param\ z\ the\ real\ number\ to\ be\ added\ to\ this\r\n
+comment3.params=
+comment3.target=RealNumberAggregator\ negativ()
+comment3.text=\r\n\ Method\ negativ\ acts\ like\ changeSign\:\r\n\ this\ \ \=\ -this\ <br>\r\n\ Such\ a\ method\ should\ be\ implemented\ in\ class\ RealNumberAggregator\r\n\r\n
+comment4.params=
+comment4.target=RealNumber\ toRealNumber()
+comment4.text=\r\n\ Method\ toRealNumber\r\n\r\n\ @return\ the\ content\ wrapped\ into\ a\ RealNumber\r\n
+comment5.params=z
+comment5.target=RealNumberAggregator\ multiply(double)
+comment5.text=\r\n\ \r\n
+comment6.params=
+comment6.target=RealNumberAggregator\ inverse()
+comment6.text=\r\n\ \r\n
+numComments=7

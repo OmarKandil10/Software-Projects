@@ -1,0 +1,43 @@
+Circuit: * C:\Users\omara\Downloads\LT spice simluation\LT spice simluation\Subtractor.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:    d:u1:4      d:u1:1
+Model:    u1:di       u1:x
+Id:      1.40e-16    4.17e-15
+Vd:      1.40e-07    4.17e-03
+Req:     1.00e-09    1.00e-12
+CAP:     0.00e+00    0.00e+00
+
+                        --- VDMOSFET Transistors ---
+Name:        m:u1:2      m:u1:1
+Model:        u1:p        u1:n
+Id:         -2.31e-03    2.19e-03
+Vgs:        -4.17e-03   -4.17e-03
+Vds:        -1.49e+01    1.51e+01
+Vth:         3.00e-01   -3.00e-01
+Gm:          1.52e-02    1.48e-02
+Gds:         0.00e+00    0.00e+00
+Cgs:         0.00e+00    0.00e+00
+Cgd:         0.00e+00    0.00e+00
+Cbody:       0.00e+00    0.00e+00
+
+
+
+Date: Tue May 30 13:03:42 2023
+Total elapsed time: 0.047 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 18
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 14
+fillins = 2
+solver = Normal
+Matrix Compiler1: 742 bytes object code size
+Matrix Compiler2: 1.29 KB object code size

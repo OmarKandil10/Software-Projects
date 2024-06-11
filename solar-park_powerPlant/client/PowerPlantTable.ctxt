@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PowerPlantTable
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PowerPlantTable\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name
+comment1.target=PowerPlantTable(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PowerPlantTable\r\n
+comment10.params=
+comment10.target=java.util.HashMap\ mapByCountry()
+comment11.params=Mapping
+comment11.target=void\ printMap(java.util.HashMap)
+comment2.params=powerstation
+comment2.target=void\ addPowerStation(common.IPowerPlant)
+comment3.params=
+comment3.target=double\ getPower()
+comment4.params=
+comment4.target=void\ printTable()
+comment5.params=Country
+comment5.target=void\ listPowerPlants(java.lang.String)
+comment6.params=Country
+comment6.target=java.util.HashSet\ findPowerPlants(java.lang.String)
+comment7.params=
+comment7.target=void\ listByCountry()
+comment8.params=
+comment8.target=java.util.HashMap\ powerByCountry()
+comment9.params=pCapacity
+comment9.target=void\ printCapacity(java.util.HashMap)
+numComments=12

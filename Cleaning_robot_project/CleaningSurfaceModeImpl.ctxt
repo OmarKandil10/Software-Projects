@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CleaningSurfaceModeImpl
+comment1.params=floorStatus
+comment1.target=CleaningSurfaceModeImpl(java.lang.String)
+comment2.params=
+comment2.target=void\ execute()
+numComments=3

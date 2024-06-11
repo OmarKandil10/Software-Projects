@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IPowerPlant
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ IPowerPlant\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getHeader()
+comment2.params=
+comment2.target=double\ getCapacity()
+comment2.text=\r\n\ getting\ the\ power\ of\ windfarms\r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getCountry()
+comment3.text=\r\n\ method\ return\ the\ country\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ printFormat()
+comment4.text=\r\n\ \r\n
+numComments=5
