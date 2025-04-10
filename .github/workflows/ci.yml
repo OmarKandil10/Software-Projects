@@ -1,0 +1,29 @@
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest  # This sets up the job to run on a virtual Ubuntu machine.
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'  # Define the Node.js version you want to use.
+
+    - name: Install dependencies
+      run: npm install  # Install any dependencies listed in package.json.
+
+    - name: Run tests
+      run: npm test  # Replace with your project's test command.
+
