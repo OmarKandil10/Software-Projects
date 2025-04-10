@@ -1,0 +1,18 @@
+.github/workflows/hello-world.yml
+name: Hello CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hello-job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Say hello
+        run: echo "Hello, world!"
