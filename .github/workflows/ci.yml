@@ -27,3 +27,9 @@ jobs:
     - name: Run tests
       run: npm test  # Replace with your project's test command.
 
+    - name: Install Checkov
+      run: pip install checkov
+    
+    - name: Run Checkov scan
+      run: checkov -d .  # This assumes your Terraform files are in the current directory.
+    
